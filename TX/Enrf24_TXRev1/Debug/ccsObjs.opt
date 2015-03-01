@@ -1,0 +1,1 @@
+"./Enrf24_TXdemo.o" -Wl,--start-group -l"lpmsp430g2553_Enrf24" -l"lpmsp430g2553_SPI" -l"lpmsp430g2553_core" -l"m" -Wl,--end-group 
