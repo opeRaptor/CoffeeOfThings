@@ -117,7 +117,7 @@ void dump_radio_status_to_serialport(uint8_t status)
    else if ((Low == 1)&&(Mid == 1)) return MID;
    else
    {
-     if (Temperature > 35)             return FULL;
+     if (Temperature > 50)             return FULL;
      else                              return EMPTY;                                     
    }
  }
