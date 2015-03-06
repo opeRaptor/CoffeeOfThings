@@ -1,4 +1,4 @@
-# jugOfSpeed
+# CoffeeOfThings
 Connected Coffee Pot
 
 First prototype of the transmitter:
